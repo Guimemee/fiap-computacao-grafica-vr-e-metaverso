@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Computação Gráfica, VR e Metaverso
+Turma 4ECS • Ano 2025
+Checkpoint 02: Texturização PBR no Substance Painter e Mapeamento UV
+
+ENUNCIADO ORIGINAL:
+Desenvolver mapa UV sem distorções e conjunto de texturas PBR (Metallic/Roughness) no Substance 3D Painter para a célula robótica do gêmeo digital SPI.

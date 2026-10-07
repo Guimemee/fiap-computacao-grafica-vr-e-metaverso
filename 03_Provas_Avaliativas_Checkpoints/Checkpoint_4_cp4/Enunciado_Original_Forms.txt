@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Computação Gráfica, VR e Metaverso
+Turma 4ECS • Ano 2025
+Checkpoint 04: Física e Cinemática Direta/Inversa de Robôs na Unreal Engine
+
+ENUNCIADO ORIGINAL:
+Implementar controle cinemático inverso (Control Rig / IK) de manipulador robótico de 6 eixos para trajetória precisa de soldagem na célula de manufatura virtual.

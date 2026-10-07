@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Computação Gráfica, VR e Metaverso
+Turma 4ECS • Ano 2025
+Checkpoint 05: Interação em Realidade Virtual (VR) com OpenXR e Gestão de Cinetose
+
+ENUNCIADO ORIGINAL:
+Implementar sistema de interação VR com OpenXR, teletransporte por parábola balística e manipulação de ferramentas virtuais com feedback háptico e latência motion-to-photon < 20 ms.

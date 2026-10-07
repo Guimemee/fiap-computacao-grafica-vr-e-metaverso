@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Computação Gráfica, VR e Metaverso
+Turma 4ECS • Ano 2025
+Checkpoint 01: Pipeline Gráfico Programável e Shaders GLSL (Vertex & Fragment)
+
+ENUNCIADO ORIGINAL:
+Desenvolver shaders GLSL customizados para simular o modelo de iluminação de Phong (Componentes Ambiente, Difusa e Especular) sobre malhas poligonais 3D.

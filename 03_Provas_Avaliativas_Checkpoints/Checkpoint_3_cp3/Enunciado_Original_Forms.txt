@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Computação Gráfica, VR e Metaverso
+Turma 4ECS • Ano 2025
+Checkpoint 03: Cenário Criativo e Gêmeo Digital na Unreal Engine 5 (Lumen & Nanite)
+
+ENUNCIADO ORIGINAL:
+Construir a fábrica digital interativa na Unreal Engine 5 com geometria virtualizada Nanite e iluminação global dinâmica Lumen sem necessidade de lightmaps estáticos pré-calculados.

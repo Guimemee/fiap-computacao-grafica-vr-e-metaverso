@@ -1,0 +1,7 @@
+FIAP • Engenharia da Computação
+Disciplina: Computação Gráfica, VR e Metaverso
+Turma 4ECS • Ano 2025
+Checkpoint 06: Integração do Metaverso Industrial com Gêmeos Digitais em Nuvem
+
+ENUNCIADO ORIGINAL:
+Conectar o ambiente 3D da Unreal Engine à nuvem corporativa SPI via WebRTC Pixel Streaming para acesso remoto colaborativo via navegador web por múltiplos engenheiros simultaneamente.
